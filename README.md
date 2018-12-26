@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://ilovelamp.now.sh">
-    <img src="https://i.imgur.com/B1EZxsB.png" alt="Moltin React Demo Store" />
+  <a href="noinaburi.in.th">
+    <img src="" alt="Noina React  Store" />
   </a>
 </p>
 
@@ -8,14 +8,14 @@
 
 An example store built using [React](https://reactjs.org/), [Redux](https://redux.js.org/) and [moltin](https://moltin.com). This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-* [Demo](https://ilovelamp.now.sh)
+* [Demo](noinaburi.in.th)
 * [API Reference](https://docs.moltin.com)
 
 ## Development
 
 ```bash
-git clone https://github.com/moltin/react-demo-store.git
-cd react-demo-store
+git clone https://github.com/fdxdeveloper/thng8.git
+cd thng8
 yarn # or npm install
 yarn start # or npm start
 ```
