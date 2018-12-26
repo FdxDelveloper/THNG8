@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Moltin &mdash; React Demo Store
+# Moltin &mdash; React noinaburi Store
 
 An example store built using [React](https://reactjs.org/), [Redux](https://redux.js.org/) and [moltin](https://moltin.com). This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
